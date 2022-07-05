@@ -1,0 +1,169 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.herosection{
+  height: 700px;
+  background-image: url(../images/developer.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+}
+
+.div0 h1{
+  color: white;
+  font-size: 60px;
+}
+.h1{
+  padding-top: 77px ;
+  padding-right: 500px;
+}
+.smalltext{
+  font-size: 28px;
+}
+.sec2{
+  height: 200px;
+  background-color: black;
+  text-align: center;
+
+}
+.sec2 h1{
+  color: white;
+  font-size: 60px;
+  font-weight: 400;
+  padding-top: 40px;
+}
+.bigtext{
+  font-size: 100px;
+}
+
+
+
+
+.sec3{
+  height: 700px;
+  background-color: white;
+}
+.maindiv{
+  display: flex;
+  gap: 5%;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.div1 {
+  background-color: white;
+  width: 1400px;
+  max-height: auto;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  margin-top: 100px;
+}
+
+.img1 img{
+  max-width: 100%;
+  height: auto;
+}
+.text1{
+  padding: 15px;
+  padding-bottom: 40px;
+}
+.text1 p{
+  margin: 15px 0px;
+}
+
+
+.div2 {
+  background-color: white;
+  width: 1400px;
+  max-height: auto;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  margin-top: 100px;
+}
+
+.img2 img{
+  max-width: 100%;
+  height: auto;
+}
+.text2{
+  padding: 15px;
+  padding-bottom: 40px;
+}
+.text2 p{
+  margin: 15px 0px;
+}
+
+
+.div3 {
+  background-color: white;
+  width: 1400px;
+  max-height: auto;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  margin-top: 100px;
+}
+
+.img3 img{
+  max-width: 100%;
+  height: auto;
+}
+.text3{
+  padding: 15px;
+  padding-bottom: 40px;
+}
+.text3 p{
+  margin: 15px 0px;
+}
+
+
+
+.sec4{
+  display: flex;
+  height: 350px;
+}
+.rightdiv{
+  background-color: #515603;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 100px;
+  padding-left: 25px;
+}
+.rightdiv h1{
+  font-size: 60px;
+  margin: 25px 0px;
+}
+.rightdiv p{
+  margin-bottom: 15px;
+}
+
+.leftdiv{
+  background-color: #722300;
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 100px;
+  padding-left: 25px;
+}
+
+.leftdiv h1{
+  font-size: 60px;
+  margin: 25px 0px;
+}
+.leftdiv p{
+  margin-bottom: 15px;
+}
+
+.footer{
+  height: 100px;
+  background-color: black;
+}
+
+.footer h1{
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 40px;
+}
